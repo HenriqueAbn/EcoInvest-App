@@ -1,7 +1,4 @@
-# EcoInvest---App
+# EcoInvest
+<hr>
 
-ECOINVEST
-
-A financial investment app focused on environmental projects.
-
-The app was made in Swift/SwiftUI.
+<h3>Application developed in Swift/SwiftUI that consists of being an investment center for environmental projects</h2>
